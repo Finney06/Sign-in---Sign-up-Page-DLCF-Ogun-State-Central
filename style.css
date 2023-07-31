@@ -14,8 +14,8 @@ body {
   align-items: center;
   justify-content: center;
   /* background-image: url(Images/Group-14.png); */
-  background: linear-gradient(179.73deg, rgba(144, 103, 10, 0.75) 2.19%, rgba(9, 6, 0, 0.75) 37.14%, rgba(11, 8, 4, 0.75) 57.07%, rgba(10, 1, 0, 0.75) 99.75%);
-  /* background: rgba(213, 114, 45, 1);  */
+  /* background: linear-gradient(179.73deg, rgba(144, 103, 10, 0.75) 2.19%, rgba(9, 6, 0, 0.75) 37.14%, rgba(11, 8, 4, 0.75) 57.07%, rgba(10, 1, 0, 0.75) 99.75%); */
+  background: rgba(213, 114, 45, 1); 
   padding: 30px;
 }
 
